@@ -1,0 +1,6 @@
+framework module CPCNLiveDetection {
+  umbrella header "CPCNLiveDetection.h"
+
+  export *
+  module * { export * }
+}
