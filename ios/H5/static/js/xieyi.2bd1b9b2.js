@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["xieyi"],{"8f4d":function(n,e,t){"use strict";t.r(e);var i=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("\n  11111\n")])},a=[],r={name:"Xieyi",data:function(){return{}}},u=r,c=t("2877"),o=Object(c["a"])(u,i,a,!1,null,"5a780156",null);e["default"]=o.exports}}]);
